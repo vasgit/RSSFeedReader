@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSS Feed Reader</string>
+    <string name="all_data">All data</string>
+    <string name="news">News</string>
+</resources>
